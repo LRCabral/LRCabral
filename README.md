@@ -29,7 +29,7 @@ This section showcases projects developed throughout my Computer Science
 degree at CESAR School. These projects reflect my learning process,
 teamwork, and growth in software development.
 
-### 1st Semester --- 2026
+### 1st Semester --- 2026.2
 
 *Academic projects developed during my first semester.*
 
@@ -39,18 +39,21 @@ An interactive tourism experience designed to help visitors discover
 destinations in Recife through personalized recommendations, a
 multilingual interface, and QR-based routes.
 
-**My contribution:** Added destination photographs to the recommendation
-results screen.
+**My contribution:** - Created the visual and functional foundation for the interface 
+                     - Fixed errors in the Arduino code 
+                     - Categorized the potential outcomes.
 
-**Technologies:** HTML, CSS, JavaScript, Python
+**Technologies:** HTML, CSS, JavaScript, Python, C++
 
 #### [Echoes of the Tower --- Bitsy Game](https://github.com/Steven794/Projeto-Jogo)
 
 A narrative game developed using Bitsy as part of an academic game
-development project.
+development project. The game uses a platformer structure with the 
+Bitsy Gravity hack.
 
-**My contribution:** Collaborated on the project and experimented with a
-teleportation hack.
+**My contribution:** - Participated in the creation of the level design.
+                     - Created and experimented a teleportation hack.
+                     - Fixed a few potential bugs.
 
 **Tools:** Bitsy, JavaScript
 
@@ -59,8 +62,9 @@ teleportation hack.
 A Python-based academic project focused on a school management system,
 including different user roles and student grade management.
 
-**My contribution:** Worked on improving the grade display, terminal
-output, and user interaction.
+**My contribution:** - Created functions to add, delete, and edit the user.
+                     - Improved how information is displayed to the user.
+                     - Tested the code with the other members to fix errors.
 
 **Technologies:** Python
 
