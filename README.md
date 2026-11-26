@@ -23,9 +23,51 @@ Currently learning and exploring:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## 📌 Featured Projects
+## Academic Projects
 
-*Coming soon! I'm currently working on projects to showcase my learning journey.*
+This section showcases projects developed throughout my Computer Science
+degree at CESAR School. These projects reflect my learning process,
+teamwork, and growth in software development.
+
+### 1st Semester --- 2026
+
+*Academic projects developed during my first semester.*
+
+#### [Alô Recife --- Interactive Tourism Kiosk](https://github.com/rafaellcosta-s/Projeto_1-Alo_recife)
+
+An interactive tourism experience designed to help visitors discover
+destinations in Recife through personalized recommendations, a
+multilingual interface, and QR-based routes.
+
+**My contribution:** Added destination photographs to the recommendation
+results screen.
+
+**Technologies:** HTML, CSS, JavaScript, Python
+
+#### [Echoes of the Tower --- Bitsy Game](https://github.com/Steven794/Projeto-Jogo)
+
+A narrative game developed using Bitsy as part of an academic game
+development project.
+
+**My contribution:** Collaborated on the project and experimented with a
+teleportation hack.
+
+**Tools:** Bitsy, JavaScript
+
+#### [SentinelaLog --- School Management System](https://github.com/Steven794/Projeto_Python)
+
+A Python-based academic project focused on a school management system,
+including different user roles and student grade management.
+
+**My contribution:** Worked on improving the grade display, terminal
+output, and user interaction.
+
+**Technologies:** Python
+
+------------------------------------------------------------------------
+
+*More projects will be added as I progress through my degree.*
+
 
 ## 📫 Contact
 
@@ -33,9 +75,9 @@ Currently learning and exploring:
 
 ---
 
-## 😁 Beyond The Code
+## 😁 Beyond the Code
 
-- 🎮 Love videogames. Especially RPGs, like Persona, or roguelikes, like Hades.
+- 🎮 I love video games. Especially RPGs, like Persona, or roguelikes, like Hades.
 - 🎬 I really enjoy following film and series sagas. I’m a big fan of The Hunger Games, Star Wars, and Pirates of the Caribbean.
 - 🎵 Music is an indispensable part of my day. I listen to a bit of everything, but I have a special fondness for rock and MPB.
 - 🏎️ I follow a few sports, such as soccer and skateboarding, but I’m especially fond of Formula 1.
