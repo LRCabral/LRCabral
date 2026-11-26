@@ -33,4 +33,11 @@ Currently learning and exploring:
 
 ---
 
+## 😁 Beyond The Code
+
+- 🎮 Love videogames. Especially RPGs, like Persona, or roguelikes, like Hades.
+- 🎬 I really enjoy following film and series sagas. I’m a big fan of The Hunger Games, Star Wars, and Pirates of the Caribbean.
+- 🎵 Music is an indispensable part of my day. I listen to a bit of everything, but I have a special fondness for rock and MPB.
+- 🏎️ I follow a few sports, such as soccer and skateboarding, but I’m especially fond of Formula 1.
+
 *Always learning. Always building. Always evolving.*
