@@ -1,4 +1,4 @@
-# Luiz Rodolfo Cabral
+# Luiz Rodolfo de Souza Cabral
 
 ### Computer Science Student 💻
 
